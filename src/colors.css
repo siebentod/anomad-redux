@@ -1,0 +1,56 @@
+
+@theme {
+  --color-background: rgb(30, 30, 30);
+  --color-background-alt: rgb(38, 38, 38);
+  --color-surface: rgb(42, 42, 42);
+  --color-surface-hover: rgb(50, 50, 50);
+
+  --color-black: rgb(30, 30, 30);
+  --color-white: rgb(250, 250, 250);
+
+  --color-primary: rgb(231 96 103);
+  --color-primary-hover: var(--color-red-bg);
+
+  --color-secondary: rgb(250, 250, 250);
+  --color-secondary-hover: rgb(235, 235, 235);
+
+  --color-text-primary: rgb(240, 240, 240);
+  --color-text-secondary: rgb(180, 180, 180);
+  --color-text-muted: rgb(130, 130, 130);
+
+  --color-border-primary: rgb(205, 78, 85);
+  --color-border-secondary: rgb(205, 78, 85);
+  --color-border-dark: rgb(60, 60, 60);
+  --color-border-light: rgb(100, 100, 100);
+  --color-border-lighter: rgb(140, 140, 140);
+
+  --color-card-bg-hover: rgb(50, 50, 50);
+
+  --color-red-bg: rgb(236 129 134);
+  --color-red-bg-hover: rgb(255 201 201);
+
+  --color-red-brown: rgb(105 53 56);
+  --color-red-brown-hover: rgb(170 59 59);
+
+  --color-success: rgb(66, 163, 95);
+  --color-success-hover: rgb(57, 145, 83);
+  --color-warning: rgb(224, 162, 45);
+  --color-warning-hover: rgb(209, 146, 33);
+  --color-info: rgb(88, 156, 212);
+  --color-info-hover: rgb(76, 143, 197);
+
+  --color-overlay: rgba(0, 0, 0, 0.6);
+  --color-shadow: rgba(0, 0, 0, 0.45);
+
+  --color-input-dark: rgb(42, 42, 42);
+  --color-input-light: rgb(70, 70, 70);
+
+  --color-button-dark: rgb(80, 80, 80);
+
+  --color-gray-400: rgb(168 168 168);
+  --color-gray-500: rgb(133 133 133);
+  --color-gray-700: rgb(80 80 80);
+
+  --color-dark-green: #363936;
+  --color-dark-red: hsl(348 12% 21%);
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "enables the default permissions",
+  "windows": ["main"],
+  "permissions": [
+    "core:window:default",
+    "dialog:default",
+    "core:event:allow-listen",
+    "core:event:allow-emit",
+    "core:event:default",
+    "core:webview:allow-internal-toggle-devtools",
+    "core:webview:default",
+    "store:default",
+    "core:menu:default",
+    "core:menu:allow-new",
+    "core:menu:allow-popup",
+    "fs:default",
+    "fs:allow-write",
+    "fs:allow-create",
+    "fs:allow-app-write-recursive",
+    "fs:allow-read",
+    "fs:allow-exists",
+    "core:resources:allow-close",
+    "core:resources:default",
+    "fs:allow-app-meta",
+    "fs:allow-app-meta-recursive",
+    "fs:allow-document-write-recursive",
+    "fs:allow-document-read-recursive"
+  ]
+}
